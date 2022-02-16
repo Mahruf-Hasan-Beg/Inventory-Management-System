@@ -3,6 +3,7 @@ Simple Inventory Management System for Seller/Supplier to keep track of product 
 
 Tools Used
 * PHP
+* MySQL
 * HTML
 * CSS
 * JavaScript
