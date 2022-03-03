@@ -1,15 +1,10 @@
-
-
 <!DOCTYPE html>
-
   <html lang="en" dir="ltr">
-
   <head>
     <meta charset="utf-8">
     <title>Inventory Management System</title>
     <link rel="stylesheet" href="style.css">
   </head>
-
   <body>
     <div class="center">
       <h1>Admin Login</h1>
