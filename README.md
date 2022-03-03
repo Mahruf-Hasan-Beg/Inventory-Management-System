@@ -1,6 +1,7 @@
 # Inventory Management System
-Simple Inventory Management System for Seller/Supplier to keep track of product info/add/delete, track of product shipment,transaction info etc. with different user interface for Seller and supplier.
+This is my university project for the course- Database Management System.
 
+It's an Inventory Management System for Seller/Supplier to keep track of product, add new product, update, delete, search with different UI for suppplier and admin.
 Tools Used
 * PHP
 * MySQL
@@ -10,7 +11,7 @@ Tools Used
 
 
 
-
+# UI Screenshots
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/87283264/136849577-4d499e5d-ba0b-412e-8484-e4196ef52e56.png)
 ![Screenshot (11)](https://user-images.githubusercontent.com/87283264/136849614-679a0157-2121-44e6-948b-8911ede37c00.png)
