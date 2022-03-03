@@ -1,8 +1,8 @@
 # Inventory Management System
 This is my university project for the course- Database Management System.
 
-It's an Inventory Management System for Seller/Supplier to keep track of product, add new product, update, delete, search with different UI for suppplier and admin.
-Tools Used
+It's an Inventory Management System for Seller/Supplier to keep track of products, add new products, update, delete, search with different UI for suppplier and admin.
+# Tools Used
 * PHP
 * MySQL
 * HTML
