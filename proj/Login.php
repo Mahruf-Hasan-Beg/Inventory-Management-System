@@ -1,7 +1,7 @@
 
 
 <!DOCTYPE html>
-<!Inventory Management System>
+
   <html lang="en" dir="ltr">
 
   <head>
