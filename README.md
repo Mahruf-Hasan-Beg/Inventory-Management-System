@@ -2,7 +2,7 @@
 This is my university project for the course- Database Management System.
 
 It's an Inventory Management System for Seller/Supplier to keep track of products, add new products, update, delete, search with different UI for suppplier and admin.
-# Tools Used
+# Built Using
 * PHP
 * MySQL
 * HTML
